@@ -1,0 +1,10 @@
+{
+	"id": "daily-breadcrumbs-plugin",
+	"name": "Daily Breadcrumbs Plugin",
+	"version": "0.0.2",
+	"minAppVersion": "0.9.20",
+	"description": "This plugins enters breadcrumbs to the previous and next date into the current note.",
+	"author": "Oliver Epper",
+	"authorUrl": "https://oliver-epper.de",
+	"isDesktopOnly": false
+}
